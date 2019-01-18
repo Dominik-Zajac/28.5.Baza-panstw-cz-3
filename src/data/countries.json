@@ -1,0 +1,97 @@
+[{
+	"name": "Polska",
+	"currency" : "PLN",
+	"populace": "38.53",
+	"capital": "Warszawa",
+	"continent": "Europa",
+	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/1280px-Flag_of_Poland.svg.png",
+	"id": 1
+  }, {
+	"name": "Irlandia",
+	"currency" : "EUR",
+	"populace": "4.59",
+	"capital": "Dublin",
+	"continent": "Europa",
+	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/1200px-Flag_of_Ireland.svg.png",
+	"id": 2
+  }, {
+	"name": "Holandia",
+	"currency" : "EUR",
+	"populace": "16.8",
+	"capital": "Amsterdam",
+	"continent": "Europa",
+	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/900px-Flag_of_the_Netherlands.svg.png",
+	"id": 3
+  }, {
+	"name": "Maroko",
+	"currency" : "MAD",
+	"populace": "33.01",
+	"capital": "Rabat",
+	"continent": "Afryka",
+	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/900px-Flag_of_Morocco.svg.png",
+	"id": 4
+  }, {
+	"name": "Tunezja",
+	"currency" : "TND",
+	"populace": "10.89",
+	"capital": "Tunis",
+	"continent": "Afryka",
+	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/1200px-Flag_of_Tunisia.svg.png",
+	"id": 5
+  }, {
+	"name": "Algieria",
+	"currency" : "DZD",
+	"populace": "39.21",
+	"capital": "Algier",
+	"continent": "Afryka",
+	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/900px-Flag_of_Algeria.svg.png",
+	"id": 6
+	  }, {
+	"name": "Chiny",
+	"currency" : "CNY",
+	"populace": "1386",
+	"capital": "Pekin",
+	"continent": "Azja",
+	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1280px-Flag_of_the_People%27s_Republic_of_China.svg.png",
+	"id": 7
+  }, {
+	"name": "Japonia",
+	"currency" : "JPY",
+	"populace": "126.8",
+	"capital": "Tokio",
+	"continent": "Azja",
+	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/1280px-Flag_of_Japan.svg.png",
+	"id": 8
+  }, {
+	"name": "Tajwan",
+	"currency" : "TWD",
+	"populace": "25.58",
+	"capital": "Tajpej",
+	"continent": "Azja",
+	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Flag_of_the_Republic_of_China.svg/800px-Flag_of_the_Republic_of_China.svg.png",
+	"id": 9
+  }, {
+	"name": "Argentyna",
+	"currency" : "ARS",
+	"populace": "44.27",
+	"capital": "Buenos Aires",
+	"continent": "Ameryka",
+	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/1280px-Flag_of_Argentina.svg.png",
+	"id": 10
+  }, {
+  	"name": "Chile",
+	"currency" : "CLP",
+	"populace": "18.05",
+	"capital": "Santiago",
+	"continent": "Ameryka",
+	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/1280px-Flag_of_Chile.svg.png",
+	"id": 11
+  }, {
+	"name": "Urugwaj",
+	"currency" : "UYU",
+	"populace": "3.457",
+	"capital": "Montevideo",
+	"continent": "Ameryka",
+	"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
+	"id": 12
+  }]
