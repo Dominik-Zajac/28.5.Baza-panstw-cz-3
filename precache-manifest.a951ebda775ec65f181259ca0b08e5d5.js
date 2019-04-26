@@ -8,8 +8,8 @@ self.__precacheManifest = [
     "url": "/Wyrafinowany/28.5.Baza-panstw-cz-3/static/css/main.7401a6bb.chunk.css"
   },
   {
-    "revision": "448c34a56d699c29117adc64c43affeb",
-    "url": "/Wyrafinowany/28.5.Baza-panstw-cz-3/static/media/glyphicons-halflings-regular.448c34a5.woff2"
+    "revision": "89889688147bd7575d6327160d64e760",
+    "url": "/Wyrafinowany/28.5.Baza-panstw-cz-3/static/media/glyphicons-halflings-regular.89889688.svg"
   },
   {
     "revision": "e8b4fb319a16a6f378bd",
@@ -28,16 +28,16 @@ self.__precacheManifest = [
     "url": "/Wyrafinowany/28.5.Baza-panstw-cz-3/static/js/main.db243169.chunk.js"
   },
   {
-    "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
-    "url": "/Wyrafinowany/28.5.Baza-panstw-cz-3/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
-  },
-  {
-    "revision": "89889688147bd7575d6327160d64e760",
-    "url": "/Wyrafinowany/28.5.Baza-panstw-cz-3/static/media/glyphicons-halflings-regular.89889688.svg"
+    "revision": "448c34a56d699c29117adc64c43affeb",
+    "url": "/Wyrafinowany/28.5.Baza-panstw-cz-3/static/media/glyphicons-halflings-regular.448c34a5.woff2"
   },
   {
     "revision": "fa2772327f55d8198301fdb8bcfc8158",
     "url": "/Wyrafinowany/28.5.Baza-panstw-cz-3/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  {
+    "revision": "e18bbf611f2a2e43afc071aa2f4e1512",
+    "url": "/Wyrafinowany/28.5.Baza-panstw-cz-3/static/media/glyphicons-halflings-regular.e18bbf61.ttf"
   },
   {
     "revision": "e8b4fb319a16a6f378bd",

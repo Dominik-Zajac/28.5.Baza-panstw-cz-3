@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Wyrafinowany/28.5.Baza-panstw-cz-3/precache-manifest.6dccabd221882fb1314068a84982e001.js"
+  "/Wyrafinowany/28.5.Baza-panstw-cz-3/precache-manifest.a951ebda775ec65f181259ca0b08e5d5.js"
 );
 
 workbox.clientsClaim();
