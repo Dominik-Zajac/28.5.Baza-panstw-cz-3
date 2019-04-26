@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/28.5.Baza-panstw-cz-3/precache-manifest.39d045492c493b7bc7a8e907eb1c193b.js"
+  "/28.5.Baza-panstw-cz-3/precache-manifest.affa3461e5d4c65aace0e83a749aadbc.js"
 );
 
 workbox.clientsClaim();
