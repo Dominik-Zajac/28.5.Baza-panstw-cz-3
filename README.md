@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Live version:
+
+See demo version [here](https://wyrafinowany.github.io/28.5.Baza-panstw-cz-3/).
 
 ## Available Scripts
 
