@@ -7,10 +7,10 @@ import routes from './routes';
 import './country.css';
 
 render (
-	<Provider store={ store }>
-		<Router history={ hashHistory } routes={ routes } />
-	</Provider>,
-	document.getElementById('root')
+    <Provider store={ store }>
+        <Router history={ hashHistory } routes={ routes } />
+    </Provider>,
+    document.getElementById('root')
 );
 
 

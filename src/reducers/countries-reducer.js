@@ -1,4 +1,10 @@
-import { GET_COUNTRIES, GET_COUNTRY, SEARCH_COUNTRIES, DELETE_COUNTRY, SET_CONTINENT } from '../actions/actions-countries';
+import { 
+    GET_COUNTRY, 
+    SET_CONTINENT, 
+    GET_COUNTRIES, 
+    DELETE_COUNTRY, 
+    SEARCH_COUNTRIES 
+} from '../actions/actions-countries';
 import countriesData from '../data/countries.json';
 
 const initialState = {
@@ -14,10 +20,10 @@ const countriesReducer = function(state = initialState, action) {
                 countries: state.countries
             });
         case GET_COUNTRY:
-        	const selectedCountry = state.countries.find(country => country.id == action.id);
-        	return Object.assign({}, state, {
-        		selectedCountry
-        	});
+            const selectedCountry = state.countries.find(country => country.id == action.id);
+            return Object.assign({}, state, {
+                selectedCountry
+            });
         case SEARCH_COUNTRIES:
             const foundCountries = state.countries.filter(country => country.name.toLowerCase().includes(action.searchText.toLowerCase()));
             return Object.assign({}, state, {
@@ -35,7 +41,7 @@ const countriesReducer = function(state = initialState, action) {
                 visibleCountries: continentCountries
             });
         default: 
-        	return state;
+            return state;
     }
 };
 

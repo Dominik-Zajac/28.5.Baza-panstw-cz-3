@@ -4,37 +4,40 @@ import { setContinent, deleteCountry } from '../actions/actions-countries';
 import CountryFlagList from '../presentational/flag-list.component';
 
 class ContinentsContainer extends Component {
-	chooseContinent(event) {
-		this.props.dispatch(setContinent(event.target.value))
+    chooseContinent(e) {
+        this.props.dispatch(setContinent(e.target.value))
     }
 
     deleteCountry(id) {
-		this.props.dispatch(deleteCountry(id));
+        this.props.dispatch(deleteCountry(id));
     }
 
     componentDidMount() {
-		this.props.dispatch(setContinent('Europa'));
+        this.props.dispatch(setContinent('Europa'));
     }
 
     render() {
-		return (
-			<div>
-				<select onChange={ e => this.chooseContinent(e) }>
-					<option value='Europa'>Europa</option>
+        return (
+            <div>
+                <select onChange={e => this.chooseContinent(e)}>
+                    <option value='Europa'>Europa</option>
                     <option value='Afryka'>Afryka</option>
                     <option value='Ameryka'>Ameryka Pld.</option>
                     <option value='Azja'>Azja</option>
                 </select>
-                <CountryFlagList countries={ this.props.visibleCountries } deleteCountry={ this.deleteCountry.bind(this) } />
+                <CountryFlagList 
+                    countries={this.props.visibleCountries} 
+                    deleteCountry={this.deleteCountry.bind(this)} 
+                />
             </div>
         )
     }
 }
 
 const mapStateToProps = function (store) {
-	return {
-		visibleCountries: store.countriesReducer.visibleCountries
-    };
+    return {
+        visibleCountries: store.countriesReducer.visibleCountries
+    }
 };
 
 export default connect(mapStateToProps)(ContinentsContainer);
