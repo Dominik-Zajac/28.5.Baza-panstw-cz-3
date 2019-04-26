@@ -2,7 +2,6 @@
   "homepage": "https://wyrafinowany.github.io/28.5.Baza-panstw-cz-3/",
   "name": "Baza-panstw",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "bootstrap": "^3.4.0",
     "gh-pages": "^2.0.1",
