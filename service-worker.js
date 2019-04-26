@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Wyrafinowany/28.5.Baza-panstw-cz-3/precache-manifest.a951ebda775ec65f181259ca0b08e5d5.js"
+  "/28.5.Baza-panstw-cz-3/precache-manifest.39d045492c493b7bc7a8e907eb1c193b.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Wyrafinowany/28.5.Baza-panstw-cz-3/index.html", {
+workbox.routing.registerNavigationRoute("/28.5.Baza-panstw-cz-3/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
