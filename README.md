@@ -1,6 +1,6 @@
 ## Live version:
 
-See demo version [here](https://wyrafinowany.github.io/28.5.Baza-panstw-cz-3/).
+See demo version [here](https://dominik-zajac.github.io/28.5.Baza-panstw-cz-3/).
 
 ## Available Scripts
 
